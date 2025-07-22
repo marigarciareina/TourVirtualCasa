@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="20995" appversion="7.1.9" hassounds="0" start="node18">
+  <panorama id="node18">
+    <input width="1472" height="1472" overlap="1" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000">
+      <level width="1472" height="1472" preload="0" predecode="0"/>
+      <level width="736" height="736" preload="0" predecode="0"/>
+      <level width="368" height="368" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="23.6226" fovmode="2">
+      <start projection="4" tilt="-93.1885" pan="94.5927" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" pan="360" fovstereographic="330" fov="140"/>
+    </view>
+    <userdata copyright="" heading="23.6226" nodeid="node18" customnodeid="" description="" info="" title="Área da frente / garagem" tags="CASADAVTIOLRC" datetime="19/07/2025 15:10" author="" comment="" source="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label width="180" height="20" bordercolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" wordwrap="1" background="1" backgroundalpha="1" border="1" enabled="1" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot use3D="0" distance3D="451.487" pan="-231.5" description="" customimageheight="79" skinid="ht_node" customimage="media/Carregando.gif" title="Sala" customimagewidth="79" fov="10" target="-15.4/-2.7/100.0" tilt="-4.95" url="{node1}" id="Point01"/>
+      <hotspot use3D="0" distance3D="365.762" pan="115.13" description="" customimageheight="64" skinid="ht_node" customimage="media/Carregando.gif" title="Corredor lateral direito" customimagewidth="64" fov="10" target="-176.3/-5.7/100.0" tilt="-3.96" url="{node17}" id="Point02"/>
+      <hotspot use3D="0" distance3D="451.487" pan="-163.69" description="" customimageheight="79" skinid="ht_node" customimage="media/Carregando.gif" title="Corredor lateral esquerdo" customimagewidth="79" fov="10" target="-168.6/-4.7/100.0" tilt="-8.28" url="{node19}" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomafterinfov="140" blendtime="1" zoomout="0" softedge="0" enabled="1" zoomin="7" zoomspeed="2" blendcolor="0x000000" type="mesh" zoomfov="40" zoomafteroutfov="40" zoomoutpause="1"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control contextprojections="0" dblclickfullscreen="0" simulatemass="1" lockedwheel="0" rubberband="0" zoomcentercursor="1" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextvr="1" sensitivity="8" lockedmouse="0" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node1">
+    <input width="1472" height="1472" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000">
+      <level width="1472" height="1472" preload="0" predecode="0"/>
+      <level width="736" height="736" preload="0" predecode="0"/>
+      <level width="368" height="368" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" pan="360" fovstereographic="330" fov="140"/>
+    </view>
+    <userdata copyright="" heading="0" nodeid="node1" customnodeid="" description="" info="" title="Sala" tags="CASADAVTIOLRC" datetime="19/07/2025 14:57" author="" comment="" source="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label width="180" height="20" bordercolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" wordwrap="1" background="1" backgroundalpha="1" border="1" enabled="1" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot use3D="0" distance3D="451.487" pan="-15.53" description="" customimageheight="79" skinid="ht_node" customimage="media/Carregando.gif" title="Copa" customimagewidth="79" fov="10" target="61.4/-4.5/100.0" tilt="-27.14" url="{node2}" id="Point01"/>
+      <hotspot use3D="0" distance3D="451.487" pan="-188.66" description="" customimageheight="79" skinid="ht_node" customimage="media/Carregando.gif" title="Área da frente / garagem" customimagewidth="79" fov="10" target="25.2/-10.3/100.0" tilt="-17.01" url="{node18}" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomafterinfov="140" blendtime="1" zoomout="0" softedge="0" enabled="1" zoomin="7" zoomspeed="2" blendcolor="0x000000" type="mesh" zoomfov="40" zoomafteroutfov="40" zoomoutpause="1"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control contextprojections="0" dblclickfullscreen="0" simulatemass="1" lockedwheel="0" rubberband="0" zoomcentercursor="1" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextvr="1" sensitivity="8" lockedmouse="0" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input width="1472" height="1472" overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000">
+      <level width="1472" height="1472" preload="0" predecode="0"/>
+      <level width="736" height="736" preload="0" predecode="0"/>
+      <level width="368" height="368" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" pan="360" fovstereographic="330" fov="140"/>
+    </view>
+    <userdata copyright="" heading="0" nodeid="node2" customnodeid="" description="" info="" title="Copa" tags="CASADAVTIOLRC" datetime="19/07/2025 14:57" author="" comment="" source="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label width="180" height="20" bordercolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" wordwrap="1" background="1" backgroundalpha="1" border="1" enabled="1" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot use3D="0" distance3D="451.487" pan="-338.44" description="" customimageheight="79" skinid="ht_node" customimage="media/Carregando.gif" title="Cozinha" customimagewidth="79" fov="10" target="24.5/-8.1/100.0" tilt="-11.02" url="{node3}" id="Point01"/>
+      <hotspot use3D="0" distance3D="451.487" pan="-258.76" description="" customimageheight="79" skinid="ht_node" customimage="media/Carregando.gif" title="Banheiro social" customimagewidth="79" fov="10" target="40.1/-9.5/100.0" tilt="-9.06" url="{node5}" id="Point02"/>
+      <hotspot use3D="0" distance3D="451.487" pan="-238.87" description="" customimageheight="79" skinid="ht_node" customimage="media/Carregando.gif" title="Quarto suite" customimagewidth="79" fov="10" target="-106.9/-16.0/100.0" tilt="-9.43" url="{node7}" id="Point03"/>
+      <hotspot use3D="0" distance3D="451.487" pan="-277.58" description="" customimageheight="79" skinid="ht_node" customimage="media/Carregando.gif" title="Quarto 2" customimagewidth="79" fov="10" target="-90.6/-10.9/100.0" tilt="-8.1" url="{node4}" id="Point04"/>
+      <hotspot use3D="0" distance3D="451.487" pan="-163.22" description="" customimageheight="79" skinid="ht_node" customimage="media/Carregando.gif" title="Sala" customimagewidth="79" fov="10" target="171.4/-10.7/100.0" tilt="-35" url="{node1}" id="Point05"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomafterinfov="140" blendtime="1" zoomout="0" softedge="0" enabled="1" zoomin="7" zoomspeed="2" blendcolor="0x000000" type="mesh" zoomfov="40" zoomafteroutfov="40" zoomoutpause="1"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control contextprojections="0" dblclickfullscreen="0" simulatemass="1" lockedwheel="0" rubberband="0" zoomcentercursor="1" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextvr="1" sensitivity="8" lockedmouse="0" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input width="1472" height="1472" overlap="1" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000">
+      <level width="1472" height="1472" preload="0" predecode="0"/>
+      <level width="736" height="736" preload="0" predecode="0"/>
+      <level width="368" height="368" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" pan="360" fovstereographic="330" fov="140"/>
+    </view>
+    <userdata copyright="" heading="0" nodeid="node3" customnodeid="" description="" info="" title="Cozinha" tags="CASADAVTIOLRC" datetime="19/07/2025 14:58" author="" comment="" source="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label width="180" height="20" bordercolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" wordwrap="1" background="1" backgroundalpha="1" border="1" enabled="1" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot use3D="0" distance3D="451.487" pan="-333.48" description="" customimageheight="79" skinid="ht_node" customimage="media/Carregando.gif" title="Área de lazer" customimagewidth="79" fov="10" target="-3.8/-4.3/100.0" tilt="-16.18" url="{node12}" id="Point01"/>
+      <hotspot use3D="0" distance3D="451.487" pan="-182.6" description="" customimageheight="79" skinid="ht_node" customimage="media/Carregando.gif" title="Copa" customimagewidth="79" fov="10" target="146.4/-10.4/100.0" tilt="-29.06" url="{node2}" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomafterinfov="140" blendtime="1" zoomout="0" softedge="0" enabled="1" zoomin="7" zoomspeed="2" blendcolor="0x000000" type="mesh" zoomfov="40" zoomafteroutfov="40" zoomoutpause="1"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control contextprojections="0" dblclickfullscreen="0" simulatemass="1" lockedwheel="0" rubberband="0" zoomcentercursor="1" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextvr="1" sensitivity="8" lockedmouse="0" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input width="1472" height="1472" overlap="1" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000">
+      <level width="1472" height="1472" preload="0" predecode="0"/>
+      <level width="736" height="736" preload="0" predecode="0"/>
+      <level width="368" height="368" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" pan="360" fovstereographic="330" fov="140"/>
+    </view>
+    <userdata copyright="" heading="0" nodeid="node4" customnodeid="" description="" info="" title="Quarto 2" tags="CASADAVTIOLRC" datetime="19/07/2025 14:59" author="" comment="" source="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label width="180" height="20" bordercolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" wordwrap="1" background="1" backgroundalpha="1" border="1" enabled="1" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot use3D="0" distance3D="451.487" pan="-235.02" description="" customimageheight="79" skinid="ht_node" customimage="media/Carregando.gif" title="Copa" customimagewidth="79" fov="10" target="-147.1/-14.4/100.0" tilt="-8.84" url="{node2}" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomafterinfov="140" blendtime="1" zoomout="0" softedge="0" enabled="1" zoomin="7" zoomspeed="2" blendcolor="0x000000" type="mesh" zoomfov="40" zoomafteroutfov="40" zoomoutpause="1"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control contextprojections="0" dblclickfullscreen="0" simulatemass="1" lockedwheel="0" rubberband="0" zoomcentercursor="1" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextvr="1" sensitivity="8" lockedmouse="0" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input width="1472" height="1472" overlap="1" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000">
+      <level width="1472" height="1472" preload="0" predecode="0"/>
+      <level width="736" height="736" preload="0" predecode="0"/>
+      <level width="368" height="368" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" pan="360" fovstereographic="330" fov="140"/>
+    </view>
+    <userdata copyright="" heading="0" nodeid="node5" customnodeid="" description="" info="" title="Banheiro social" tags="CASADAVTIOLRC" datetime="19/07/2025 14:59" author="" comment="" source="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label width="180" height="20" bordercolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" wordwrap="1" background="1" backgroundalpha="1" border="1" enabled="1" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot use3D="0" distance3D="451.487" pan="-190.34" description="" customimageheight="79" skinid="ht_node" customimage="media/Carregando.gif" title="Copa" customimagewidth="79" fov="10" target="-150.2/-8.7/100.0" tilt="-7.92" url="{node2}" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomafterinfov="140" blendtime="1" zoomout="0" softedge="0" enabled="1" zoomin="7" zoomspeed="2" blendcolor="0x000000" type="mesh" zoomfov="40" zoomafteroutfov="40" zoomoutpause="1"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control contextprojections="0" dblclickfullscreen="0" simulatemass="1" lockedwheel="0" rubberband="0" zoomcentercursor="1" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextvr="1" sensitivity="8" lockedmouse="0" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input width="1472" height="1472" overlap="1" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000">
+      <level width="1472" height="1472" preload="0" predecode="0"/>
+      <level width="736" height="736" preload="0" predecode="0"/>
+      <level width="368" height="368" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" pan="360" fovstereographic="330" fov="140"/>
+    </view>
+    <userdata copyright="" heading="0" nodeid="node6" customnodeid="" description="" info="" title="Banheiro suite" tags="CASADAVTIOLRC" datetime="19/07/2025 15:01" author="" comment="" source="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label width="180" height="20" bordercolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" wordwrap="1" background="1" backgroundalpha="1" border="1" enabled="1" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot use3D="0" distance3D="451.487" pan="-335.97" description="" customimageheight="79" skinid="ht_node" customimage="media/Carregando.gif" title="Quarto suite" customimagewidth="79" fov="10" target="-90.4/-8.5/100.0" tilt="-40.19" url="{node7}" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomafterinfov="140" blendtime="1" zoomout="0" softedge="0" enabled="1" zoomin="7" zoomspeed="2" blendcolor="0x000000" type="mesh" zoomfov="40" zoomafteroutfov="40" zoomoutpause="1"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control contextprojections="0" dblclickfullscreen="0" simulatemass="1" lockedwheel="0" rubberband="0" zoomcentercursor="1" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextvr="1" sensitivity="8" lockedmouse="0" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input width="1472" height="1472" overlap="1" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000">
+      <level width="1472" height="1472" preload="0" predecode="0"/>
+      <level width="736" height="736" preload="0" predecode="0"/>
+      <level width="368" height="368" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" pan="360" fovstereographic="330" fov="140"/>
+    </view>
+    <userdata copyright="" heading="0" nodeid="node7" customnodeid="" description="" info="" title="Quarto suite" tags="CASADAVTIOLRC" datetime="19/07/2025 15:01" author="" comment="" source="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label width="180" height="20" bordercolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" wordwrap="1" background="1" backgroundalpha="1" border="1" enabled="1" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot use3D="0" distance3D="451.487" pan="-263.44" description="" customimageheight="79" skinid="ht_node" customimage="media/Carregando.gif" title="Banheiro suite" customimagewidth="79" fov="10" target="133.1/-12.3/100.0" tilt="-14.05" url="{node6}" id="Point01"/>
+      <hotspot use3D="0" distance3D="451.487" pan="-302.55" description="" customimageheight="79" skinid="ht_node" customimage="media/Carregando.gif" title="Copa" customimagewidth="79" fov="10" target="-162.1/-8.1/100.0" tilt="-12.22" url="{node2}" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomafterinfov="140" blendtime="1" zoomout="0" softedge="0" enabled="1" zoomin="7" zoomspeed="2" blendcolor="0x000000" type="mesh" zoomfov="40" zoomafteroutfov="40" zoomoutpause="1"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control contextprojections="0" dblclickfullscreen="0" simulatemass="1" lockedwheel="0" rubberband="0" zoomcentercursor="1" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextvr="1" sensitivity="8" lockedmouse="0" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node11">
+    <input width="1472" height="1472" overlap="1" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000">
+      <level width="1472" height="1472" preload="0" predecode="0"/>
+      <level width="736" height="736" preload="0" predecode="0"/>
+      <level width="368" height="368" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" pan="360" fovstereographic="330" fov="140"/>
+    </view>
+    <userdata copyright="" heading="0" nodeid="node11" customnodeid="" description="" info="" title="Área de lazer" tags="CASADAVTIOLRC" datetime="19/07/2025 15:04" author="" comment="" source="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label width="180" height="20" bordercolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" wordwrap="1" background="1" backgroundalpha="1" border="1" enabled="1" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot use3D="0" distance3D="451.487" pan="-85.56" description="" customimageheight="79" skinid="ht_node" customimage="media/Carregando.gif" title="Área de lazer" customimagewidth="79" fov="10" target="-45.5/-5.3/100.0" tilt="-14.17" url="{node12}" id="Point02"/>
+      <hotspot use3D="0" distance3D="451.487" pan="-335.31" description="" customimageheight="79" skinid="ht_node" customimage="media/Carregando.gif" title="Corredor dos fundos" customimagewidth="79" fov="10" target="-1.7/-11.0/100.0" tilt="-6.77" url="{node21}" id="Point01"/>
+      <hotspot use3D="0" distance3D="451.487" pan="-203.66" description="" customimageheight="79" skinid="ht_node" customimage="media/Carregando.gif" title="Corredor lateral esquerdo" customimagewidth="79" fov="10" target="-172.4/-9.0/100.0" tilt="-13.03" url="{node20}" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomafterinfov="140" blendtime="1" zoomout="0" softedge="0" enabled="1" zoomin="7" zoomspeed="2" blendcolor="0x000000" type="mesh" zoomfov="40" zoomafteroutfov="40" zoomoutpause="1"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control contextprojections="0" dblclickfullscreen="0" simulatemass="1" lockedwheel="0" rubberband="0" zoomcentercursor="1" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextvr="1" sensitivity="8" lockedmouse="0" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node12">
+    <input width="1472" height="1472" overlap="1" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000">
+      <level width="1472" height="1472" preload="0" predecode="0"/>
+      <level width="736" height="736" preload="0" predecode="0"/>
+      <level width="368" height="368" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" pan="360" fovstereographic="330" fov="140"/>
+    </view>
+    <userdata copyright="" heading="0" nodeid="node12" customnodeid="" description="" info="" title="Área de lazer" tags="CASADAVTIOLRC" datetime="19/07/2025 15:05" author="" comment="" source="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label width="180" height="20" bordercolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" wordwrap="1" background="1" backgroundalpha="1" border="1" enabled="1" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot use3D="0" distance3D="451.487" pan="-264.61" description="" customimageheight="79" skinid="ht_node" customimage="media/Carregando.gif" title="Área de lazer" customimagewidth="79" fov="10" target="165.2/-9.0/100.0" tilt="-10.06" url="{node11}" id="Point01"/>
+      <hotspot use3D="0" distance3D="451.487" pan="-83.61" description="" customimageheight="79" skinid="ht_node" customimage="media/Carregando.gif" title="Área de lazer" customimagewidth="79" fov="10" target="-172.4/-7.1/100.0" tilt="-23.14" url="{node15}" id="Point02"/>
+      <hotspot use3D="0" distance3D="451.487" pan="-174.24" description="" customimageheight="79" skinid="ht_node" customimage="media/Carregando.gif" title="Cozinha" customimagewidth="79" fov="10" target="175.3/-11.4/100.0" tilt="-11.85" url="{node3}" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomafterinfov="140" blendtime="1" zoomout="0" softedge="0" enabled="1" zoomin="7" zoomspeed="2" blendcolor="0x000000" type="mesh" zoomfov="40" zoomafteroutfov="40" zoomoutpause="1"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control contextprojections="0" dblclickfullscreen="0" simulatemass="1" lockedwheel="0" rubberband="0" zoomcentercursor="1" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextvr="1" sensitivity="8" lockedmouse="0" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node15">
+    <input width="1472" height="1472" overlap="1" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000">
+      <level width="1472" height="1472" preload="0" predecode="0"/>
+      <level width="736" height="736" preload="0" predecode="0"/>
+      <level width="368" height="368" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" pan="360" fovstereographic="330" fov="140"/>
+    </view>
+    <userdata copyright="" heading="0" nodeid="node15" customnodeid="" description="" info="" title="Área de lazer" tags="CASADAVTIOLRC" datetime="19/07/2025 15:07" author="" comment="" source="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label width="180" height="20" bordercolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" wordwrap="1" background="1" backgroundalpha="1" border="1" enabled="1" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot use3D="0" distance3D="451.487" pan="-138.7" description="" customimageheight="79" skinid="ht_node" customimage="media/Carregando.gif" title="Quartinho área de lazer" customimagewidth="79" fov="10" target="34.2/-14.6/100.0" tilt="-6.33" url="{node13}" id="Point01"/>
+      <hotspot use3D="0" distance3D="451.487" pan="-185.12" description="" customimageheight="79" skinid="ht_node" customimage="media/Carregando.gif" title="Banheiro área de lazer" customimagewidth="79" fov="10" target="3.5/-15.0/100.0" tilt="-4.54" url="{node14}" id="Point02"/>
+      <hotspot use3D="0" distance3D="451.487" pan="-343.67" description="" customimageheight="79" skinid="ht_node" customimage="media/Carregando.gif" title="Coredor lateral direito / garagem" customimagewidth="79" fov="10" target="-1.7/-3.0/100.0" tilt="-18.9" url="{node16}" id="Point03"/>
+      <hotspot use3D="0" distance3D="451.487" pan="-72.9" description="" customimageheight="79" skinid="ht_node" customimage="media/Carregando.gif" title="Área de lazer" customimagewidth="79" fov="10" target="95.6/-8.9/100.0" tilt="-30.85" url="{node12}" id="Point04"/>
+      <hotspot use3D="0" distance3D="451.487" pan="-33.14" description="" customimageheight="79" skinid="ht_node" customimage="media/Carregando.gif" title="Cozinha" customimagewidth="79" fov="10" target="172.8/-3.3/100.0" tilt="-8.55" url="{node3}" id="Point05"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomafterinfov="140" blendtime="1" zoomout="0" softedge="0" enabled="1" zoomin="7" zoomspeed="2" blendcolor="0x000000" type="mesh" zoomfov="40" zoomafteroutfov="40" zoomoutpause="1"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control contextprojections="0" dblclickfullscreen="0" simulatemass="1" lockedwheel="0" rubberband="0" zoomcentercursor="1" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextvr="1" sensitivity="8" lockedmouse="0" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node13">
+    <input width="1472" height="1472" overlap="1" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000">
+      <level width="1472" height="1472" preload="0" predecode="0"/>
+      <level width="736" height="736" preload="0" predecode="0"/>
+      <level width="368" height="368" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" pan="360" fovstereographic="330" fov="140"/>
+    </view>
+    <userdata copyright="" heading="0" nodeid="node13" customnodeid="" description="" info="" title="Quartinho área de lazer" tags="CASADAVTIOLRC" datetime="19/07/2025 15:05" author="" comment="" source="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label width="180" height="20" bordercolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" wordwrap="1" background="1" backgroundalpha="1" border="1" enabled="1" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot use3D="0" distance3D="451.487" pan="-111.69" description="" customimageheight="79" skinid="ht_node" customimage="media/Carregando.gif" title="Área de lazer" customimagewidth="79" fov="10" target="-9.4/-14.8/100.0" tilt="-17" url="{node15}" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomafterinfov="140" blendtime="1" zoomout="0" softedge="0" enabled="1" zoomin="7" zoomspeed="2" blendcolor="0x000000" type="mesh" zoomfov="40" zoomafteroutfov="40" zoomoutpause="1"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control contextprojections="0" dblclickfullscreen="0" simulatemass="1" lockedwheel="0" rubberband="0" zoomcentercursor="1" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextvr="1" sensitivity="8" lockedmouse="0" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node14">
+    <input width="1472" height="1472" overlap="1" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000">
+      <level width="1472" height="1472" preload="0" predecode="0"/>
+      <level width="736" height="736" preload="0" predecode="0"/>
+      <level width="368" height="368" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" pan="360" fovstereographic="330" fov="140"/>
+    </view>
+    <userdata copyright="" heading="0" nodeid="node14" customnodeid="" description="" info="" title="Banheiro área de lazer" tags="CASADAVTIOLRC" datetime="19/07/2025 15:07" author="" comment="" source="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label width="180" height="20" bordercolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" wordwrap="1" background="1" backgroundalpha="1" border="1" enabled="1" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot use3D="0" distance3D="451.487" pan="-177.56" description="" customimageheight="79" skinid="ht_node" customimage="media/Carregando.gif" title="Área de lazer" customimagewidth="79" fov="10" target="0.0/0.0/100.0" tilt="-12.06" url="{node15}" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomafterinfov="140" blendtime="1" zoomout="0" softedge="0" enabled="1" zoomin="7" zoomspeed="2" blendcolor="0x000000" type="mesh" zoomfov="40" zoomafteroutfov="40" zoomoutpause="1"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control contextprojections="0" dblclickfullscreen="0" simulatemass="1" lockedwheel="0" rubberband="0" zoomcentercursor="1" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextvr="1" sensitivity="8" lockedmouse="0" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node16">
+    <input width="1472" height="1472" overlap="1" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000">
+      <level width="1472" height="1472" preload="0" predecode="0"/>
+      <level width="736" height="736" preload="0" predecode="0"/>
+      <level width="368" height="368" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" pan="360" fovstereographic="330" fov="140"/>
+    </view>
+    <userdata copyright="" heading="0" nodeid="node16" customnodeid="" description="" info="" title="Coredor lateral direito / garagem" tags="CASADAVTIOLRC" datetime="19/07/2025 15:08" author="" comment="" source="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label width="180" height="20" bordercolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" wordwrap="1" background="1" backgroundalpha="1" border="1" enabled="1" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot use3D="0" distance3D="451.487" pan="-2.28" description="" customimageheight="79" skinid="ht_node" customimage="media/Carregando.gif" title="Corredor lateral direito" customimagewidth="79" fov="10" target="-4.6/-5.3/100.0" tilt="-25.23" url="{node17}" id="Point01"/>
+      <hotspot use3D="0" distance3D="451.487" pan="-175.42" description="" customimageheight="79" skinid="ht_node" customimage="media/Carregando.gif" title="Área de lazer" customimagewidth="79" fov="10" target="-145.2/-20.2/100.0" tilt="-20.79" url="{node15}" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomafterinfov="140" blendtime="1" zoomout="0" softedge="0" enabled="1" zoomin="7" zoomspeed="2" blendcolor="0x000000" type="mesh" zoomfov="40" zoomafteroutfov="40" zoomoutpause="1"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control contextprojections="0" dblclickfullscreen="0" simulatemass="1" lockedwheel="0" rubberband="0" zoomcentercursor="1" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextvr="1" sensitivity="8" lockedmouse="0" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node17">
+    <input width="1472" height="1472" overlap="1" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000">
+      <level width="1472" height="1472" preload="0" predecode="0"/>
+      <level width="736" height="736" preload="0" predecode="0"/>
+      <level width="368" height="368" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" pan="360" fovstereographic="330" fov="140"/>
+    </view>
+    <userdata copyright="" heading="0" nodeid="node17" customnodeid="" description="" info="" title="Corredor lateral direito" tags="CASADAVTIOLRC" datetime="19/07/2025 15:08" author="" comment="" source="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label width="180" height="20" bordercolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" wordwrap="1" background="1" backgroundalpha="1" border="1" enabled="1" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot use3D="0" distance3D="451.487" pan="-11.62" description="" customimageheight="79" skinid="ht_node" customimage="media/Carregando.gif" title="Área da frente / garagem" customimagewidth="79" fov="10" target="56.9/-9.2/100.0" tilt="-14.44" url="{node18}" id="Point01"/>
+      <hotspot use3D="0" distance3D="451.487" pan="-176.06" description="" customimageheight="79" skinid="ht_node" customimage="media/Carregando.gif" title="Coredor lateral direito / garagem" customimagewidth="79" fov="10" target="-173.6/-13.3/100.0" tilt="-22.77" url="{node16}" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomafterinfov="140" blendtime="1" zoomout="0" softedge="0" enabled="1" zoomin="7" zoomspeed="2" blendcolor="0x000000" type="mesh" zoomfov="40" zoomafteroutfov="40" zoomoutpause="1"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control contextprojections="0" dblclickfullscreen="0" simulatemass="1" lockedwheel="0" rubberband="0" zoomcentercursor="1" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextvr="1" sensitivity="8" lockedmouse="0" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node19">
+    <input width="1472" height="1472" overlap="1" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000">
+      <level width="1472" height="1472" preload="0" predecode="0"/>
+      <level width="736" height="736" preload="0" predecode="0"/>
+      <level width="368" height="368" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" pan="360" fovstereographic="330" fov="140"/>
+    </view>
+    <userdata copyright="" heading="0" nodeid="node19" customnodeid="" description="" info="" title="Corredor lateral esquerdo" tags="CASADAVTIOLRC" datetime="19/07/2025 15:11" author="" comment="" source="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label width="180" height="20" bordercolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" wordwrap="1" background="1" backgroundalpha="1" border="1" enabled="1" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot use3D="0" distance3D="451.487" pan="-347.69" description="" customimageheight="79" skinid="ht_node" customimage="media/Carregando.gif" title="Área da frente / garagem" customimagewidth="79" fov="10" target="16.0/-8.8/100.0" tilt="-16.52" url="{node18}" id="Point01"/>
+      <hotspot use3D="0" distance3D="451.487" pan="-168.34" description="" customimageheight="79" skinid="ht_node" customimage="media/Carregando.gif" title="Corredor lateral esquerdo" customimagewidth="79" fov="10" target="7.2/-4.4/100.0" tilt="-17.11" url="{node20}" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomafterinfov="140" blendtime="1" zoomout="0" softedge="0" enabled="1" zoomin="7" zoomspeed="2" blendcolor="0x000000" type="mesh" zoomfov="40" zoomafteroutfov="40" zoomoutpause="1"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control contextprojections="0" dblclickfullscreen="0" simulatemass="1" lockedwheel="0" rubberband="0" zoomcentercursor="1" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextvr="1" sensitivity="8" lockedmouse="0" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node20">
+    <input width="1472" height="1472" overlap="1" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000">
+      <level width="1472" height="1472" preload="0" predecode="0"/>
+      <level width="736" height="736" preload="0" predecode="0"/>
+      <level width="368" height="368" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" pan="360" fovstereographic="330" fov="140"/>
+    </view>
+    <userdata copyright="" heading="0" nodeid="node20" customnodeid="" description="" info="" title="Corredor lateral esquerdo" tags="CASADAVTIOLRC" datetime="19/07/2025 15:12" author="" comment="" source="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label width="180" height="20" bordercolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" wordwrap="1" background="1" backgroundalpha="1" border="1" enabled="1" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot use3D="0" distance3D="451.487" pan="-172.83" description="" customimageheight="79" skinid="ht_node" customimage="media/Carregando.gif" title="Corredor lateral esquerdo" customimagewidth="79" fov="10" target="12.6/-7.2/100.0" tilt="-26.7" url="{node19}" id="Point01"/>
+      <hotspot use3D="0" distance3D="451.487" pan="-353.19" description="" customimageheight="79" skinid="ht_node" customimage="media/Carregando.gif" title="Área de lazer" customimagewidth="79" fov="10" target="-17.3/-8.6/100.0" tilt="-8.58" url="{node11}" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomafterinfov="140" blendtime="1" zoomout="0" softedge="0" enabled="1" zoomin="7" zoomspeed="2" blendcolor="0x000000" type="mesh" zoomfov="40" zoomafteroutfov="40" zoomoutpause="1"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control contextprojections="0" dblclickfullscreen="0" simulatemass="1" lockedwheel="0" rubberband="0" zoomcentercursor="1" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextvr="1" sensitivity="8" lockedmouse="0" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node21">
+    <input width="1472" height="1472" overlap="1" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000">
+      <level width="1472" height="1472" preload="0" predecode="0"/>
+      <level width="736" height="736" preload="0" predecode="0"/>
+      <level width="368" height="368" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" pan="360" fovstereographic="330" fov="140"/>
+    </view>
+    <userdata copyright="" heading="0" nodeid="node21" customnodeid="" description="" info="" title="Corredor dos fundos" tags="CASADAVTIOLRC" datetime="19/07/2025 15:12" author="" comment="" source="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label width="180" height="20" bordercolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" wordwrap="1" background="1" backgroundalpha="1" border="1" enabled="1" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot use3D="0" distance3D="451.487" pan="-4.32" description="" customimageheight="79" skinid="ht_node" customimage="media/Carregando.gif" title="Fundos" customimagewidth="79" fov="10" target="-49.0/-18.0/100.0" tilt="-14.26" url="{node22}" id="Point01"/>
+      <hotspot use3D="0" distance3D="451.487" pan="-178.67" description="" customimageheight="79" skinid="ht_node" customimage="media/Carregando.gif" title="Área de lazer" customimagewidth="79" fov="10" target="-159.2/-9.7/100.0" tilt="-10.4" url="{node11}" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomafterinfov="140" blendtime="1" zoomout="0" softedge="0" enabled="1" zoomin="7" zoomspeed="2" blendcolor="0x000000" type="mesh" zoomfov="40" zoomafteroutfov="40" zoomoutpause="1"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control contextprojections="0" dblclickfullscreen="0" simulatemass="1" lockedwheel="0" rubberband="0" zoomcentercursor="1" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextvr="1" sensitivity="8" lockedmouse="0" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node22">
+    <input width="1472" height="1472" overlap="1" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000">
+      <level width="1472" height="1472" preload="0" predecode="0"/>
+      <level width="736" height="736" preload="0" predecode="0"/>
+      <level width="368" height="368" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" pan="360" fovstereographic="330" fov="140"/>
+    </view>
+    <userdata copyright="" heading="0" nodeid="node22" customnodeid="" description="" info="" title="Fundos" tags="CASADAVTIOLRC" datetime="19/07/2025 15:13" author="" comment="" source="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label width="180" height="20" bordercolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" wordwrap="1" background="1" backgroundalpha="1" border="1" enabled="1" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot use3D="0" distance3D="451.487" pan="-57.74" description="" customimageheight="79" skinid="ht_node" customimage="media/Carregando.gif" title="Fundos" customimagewidth="79" fov="10" target="0.0/0.0/100.0" tilt="-17.37" url="{node23}" id="Point01"/>
+      <hotspot use3D="0" distance3D="451.487" pan="-316.92" description="" customimageheight="79" skinid="ht_node" customimage="media/Carregando.gif" title="Corredor dos fundos" customimagewidth="79" fov="10" target="-179.3/-3.4/100.0" tilt="-9.06" url="{node21}" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomafterinfov="140" blendtime="1" zoomout="0" softedge="0" enabled="1" zoomin="7" zoomspeed="2" blendcolor="0x000000" type="mesh" zoomfov="40" zoomafteroutfov="40" zoomoutpause="1"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control contextprojections="0" dblclickfullscreen="0" simulatemass="1" lockedwheel="0" rubberband="0" zoomcentercursor="1" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextvr="1" sensitivity="8" lockedmouse="0" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node23">
+    <input width="1472" height="1472" overlap="1" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000">
+      <level width="1472" height="1472" preload="0" predecode="0"/>
+      <level width="736" height="736" preload="0" predecode="0"/>
+      <level width="368" height="368" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="0" pan="0" fov="100"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" pan="360" fovstereographic="330" fov="140"/>
+    </view>
+    <userdata copyright="" heading="0" nodeid="node23" customnodeid="" description="" info="" title="Fundos" tags="CASADAVTIOLRC" datetime="19/07/2025 15:14" author="" comment="" source="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label width="180" height="20" bordercolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" wordwrap="1" background="1" backgroundalpha="1" border="1" enabled="1" textalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot use3D="0" distance3D="451.487" pan="-187.54" description="" customimageheight="79" skinid="ht_node" customimage="media/Carregando.gif" title="Fundos" customimagewidth="79" fov="10" target="43.5/-7.8/100.0" tilt="-18.22" url="{node22}" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomafterinfov="140" blendtime="1" zoomout="0" softedge="0" enabled="1" zoomin="7" zoomspeed="2" blendcolor="0x000000" type="mesh" zoomfov="40" zoomafteroutfov="40" zoomoutpause="1"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control contextprojections="0" dblclickfullscreen="0" simulatemass="1" lockedwheel="0" rubberband="0" zoomcentercursor="1" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextvr="1" sensitivity="8" lockedmouse="0" hideabout="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1"/>
+  </panorama>
+  <masternode>
+    <userdata copyright="" tags="" description="" author="" comment="" title=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
